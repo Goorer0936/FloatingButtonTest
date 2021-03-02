@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FloatingButtonTest
 //
-//  Created by 小浦雄一朗 on 2021/02/10.
+//  Created by Goorer on 2021/02/10.
 //
 
 import UIKit
